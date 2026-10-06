@@ -1,0 +1,3 @@
+C:\Users\BG\source\repos\whatssapp bot\x64\Debug\libcurl-d.dll
+C:\Users\BG\source\repos\whatssapp bot\x64\Debug\zd.dll
+C:\Users\BG\source\repos\whatssapp bot\whatssapp bot\x64\Debug\whatssap.14509B2E.Up2Date

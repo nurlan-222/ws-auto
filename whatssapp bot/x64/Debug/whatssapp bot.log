@@ -1,0 +1,7 @@
+﻿  whatssapp bot.cpp
+C:\Users\BG\source\repos\whatssapp bot\whatssapp bot\whatssapp bot.cpp(25,9): warning C4566: символ, представленный универсальным именем символа "\u04D9", невозможно представить в текущей кодовой странице (1251)
+C:\Users\BG\source\repos\whatssapp bot\whatssapp bot\whatssapp bot.cpp(25,9): warning C4566: символ, представленный универсальным именем символа "\u04B1", невозможно представить в текущей кодовой странице (1251)
+C:\Users\BG\source\repos\whatssapp bot\whatssapp bot\whatssapp bot.cpp(25,9): warning C4566: символ, представленный универсальным именем символа "\u049B", невозможно представить в текущей кодовой странице (1251)
+C:\Users\BG\source\repos\whatssapp bot\whatssapp bot\whatssapp bot.cpp(49,26): warning C4566: символ, представленный универсальным именем символа "\u049A", невозможно представить в текущей кодовой странице (1251)
+C:\Users\BG\source\repos\whatssapp bot\whatssapp bot\whatssapp bot.cpp(55,38): error C2065: л: необъявленный идентификатор
+C:\Users\BG\source\repos\whatssapp bot\whatssapp bot\whatssapp bot.cpp(56,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "curl_easy_cleanup"
